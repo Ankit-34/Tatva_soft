@@ -1,0 +1,60 @@
+const books = [
+  {
+    id: 1,
+    name: "Think Like a Monk",
+    description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Excepturi ipsum ullam repellat animi quisquam natus voluptate ex?",
+    price: 1200,
+    category: "Category",
+    baseimage: "Think_Like_a_Monk.jpg",
+  },
+  {
+    id: 2,
+    name: "Rich Dad Poor Dad",
+    description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Excepturi ipsum ullam repellat animi quisquam natus voluptate ex?",
+    price: 1000,
+    category: "Category",
+    baseimage: "Rich_Dad_Poor_Dad.jpg",
+  },
+  {
+    id: 3,
+    name: "Demon Slayer",
+    description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Excepturi ipsum ullam repellat animi quisquam natus voluptate ex?",
+    price: 1100,
+    category: "Category",
+    baseimage: "Demon_Slayer.jpg",
+  },
+  {
+    id: 4,
+    name: "The Secret",
+    description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Excepturi ipsum ullam repellat animi quisquam natus voluptate ex?",
+    price: 1300,
+    category: "Category",
+    baseimage: "The_Secret.jpg",
+  },
+  {
+    id: 5,
+    name: "The Natural Order of Money",
+    description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Excepturi ipsum ullam repellat animi quisquam natus voluptate ex?",
+    price: 1200,
+    category: "Category",
+    baseimage: "The_Natural_Order_of_Money.jpg",
+  },
+  {
+    id: 6,
+    name: "The 48 Laws of Power",
+    description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Excepturi ipsum ullam repellat animi quisquam natus voluptate ex?",
+    price: 1000,
+    category: "Category",
+    baseimage: "The_48_Laws_of_Power.jpg",
+  },
+  {
+    id: 7,
+    name: "Think Like a Monk",
+    description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Excepturi ipsum ullam repellat animi quisquam natus voluptate ex?",
+    price: 1200,
+    category: "Category",
+    baseimage: "Think_Like_a_Monk.jpg",
+  },
+];
+
+export default books;

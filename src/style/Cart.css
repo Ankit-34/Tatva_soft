@@ -1,0 +1,32 @@
+.cart_container{
+    display: flex !important;
+    border: 2px solid red !important;
+}
+
+.grandPrice{
+    width: 60%;
+    margin: 80px auto;
+    font-size: 23px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin: 40px auto;
+    color: rgba(4, 47, 73, 0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 450px;
+}
+
+.place_order{
+    width: 20%;
+    padding: 10px;
+    font-size: 17px;
+    background-color: rgba(4, 47, 73, 0.8);
+    font-weight: 600;
+    letter-spacing: 2px;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+    outline: none;
+    border: none;
+}
